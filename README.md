@@ -2,8 +2,8 @@
 
 PetCare is a small local command-line utility that grows in focused stages.
 
-Current stage: 6
-Latest focus: Add read-only CLI commands
+Current stage: 7
+Latest focus: Add short ID generation
 
 ## Goals
 
